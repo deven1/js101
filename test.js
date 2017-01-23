@@ -33,14 +33,3 @@ function flimflam() {
 }
 
 flimflam();
-
-function no_dupes(inputArray){
-
-	var arrayLen = inputArray.length;
-
-			
-
-
-
-
-}
