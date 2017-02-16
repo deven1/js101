@@ -48,4 +48,4 @@ function incrementPrime(inputPrime){
 //console.log(incrementPrime(11));
 nextPrime([13,14,15]); //= [15,14,17]
 nextPrime([1,2,3,4,5]); // = [1,3,5,4,7]
-nextPrime([0,-1,29,1]);
+nextPrime([0,-1,29,1]); // = [0,-1,31,1]
